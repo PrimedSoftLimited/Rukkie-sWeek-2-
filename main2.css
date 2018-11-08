@@ -1,0 +1,36 @@
+h1{
+	display: none;
+}
+body{
+	font-family: Arial;
+}
+#header blockquote{
+	float: right;
+	font-size: 40px;
+	margin-top: 0px;
+}
+#header #logo{
+	margin-top: 90px;
+	margin-left: 70px;
+}
+#content #content-side{
+	float: left;
+	width: 30%;
+	height: 400px;
+	color: #000;
+	font-size: 20px;
+	line-height: 30px;
+	margin-left: 30px;
+}
+#content #content-side a{
+	text-decoration: none;
+	color: #CD853F;
+}
+#content-main{
+	margin-left: 450px;
+	text-align: justify;
+}
+#content-main a{
+	color: #CD853F;
+	text-decoration: none;
+}

@@ -1,0 +1,36 @@
+body{
+    background-image:url(light.jpg);
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#wrap .thepost h1{
+    background-color: rgba(0,0,0, 0.8);
+    padding: 15px;
+    color: #fff;
+}
+#wrap .thepost h2{
+    color: #fff;
+    font-size: 20px;
+    padding: 15px;
+}
+#wrap .thepost p{
+    text-align: justify;
+    background-color: rgba(255,255,255, 0.8);
+    color: #000;
+    font-size: 25px;
+    padding: 40px 30px 40px 30px;
+    margin: 0px 20px 0px 20px;
+    border-left: 6px solid rgba(76, 175, 80, 0.8);
+    border-radius: 0px 8px 8px 0px;
+}
+#wrap .thepost .postfooter{
+    background-color: rgba(0,0,0,0.8);
+    border-right: rgba(76,175,80,0.8);
+    color: #fff;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: 30px;
+    width: 20%;
+}

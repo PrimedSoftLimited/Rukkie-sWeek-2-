@@ -1,0 +1,52 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url(happy.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    float: right;
+    background-color: rgba(0,0,0,0.8);
+    width: 50%;
+    height: 676px;
+    text-align: center;
+}
+.body .create{
+    color: #fff;
+    font-size: 70px;
+    text-transform: uppercase;
+    letter-spacing: 17px;
+    font-weight: 700;
+}
+.body .free{
+    color: gold;
+    font-size: 135px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 15px;
+    margin-top: -90px;
+}
+.body .web{
+    color: #fff;
+    font-size: 70px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    margin-top: -150px;
+}
+.body a .fas{
+    color: gold;
+    font-size: 150px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -70px;
+}
+.body .any{
+    color: #fff;
+    font-size:40px;
+    text-align: justify;
+    margin-top:180px;
+    margin-left: 150px;
+    font-weight: bolder;
+}
